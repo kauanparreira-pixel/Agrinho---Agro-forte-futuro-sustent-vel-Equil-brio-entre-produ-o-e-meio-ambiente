@@ -1,5 +1,3 @@
-Entendi! Quer uma versão sem botões ou jogos interativos — apenas slides automáticos e animações que rolam sozinhas conforme você desce a página. Vou criar tudo bem visual e contemplativo. 🌾
-
 <!doctype html>
 <html lang="pt-BR">
 <head>
